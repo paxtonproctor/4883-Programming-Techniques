@@ -1,4 +1,4 @@
-* when using scan or print *
+*when using scan or print
 
 short x;
 // "%hd" or "%hi" for decimel conversion
@@ -40,4 +40,4 @@ unsigned long double x;
 unsigned char c;
 // "%c"
 
-* Speed Tips *
+*Speed Tips
