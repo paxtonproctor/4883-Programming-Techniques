@@ -1,4 +1,4 @@
-*when using scan or print*
+****when using scan or print****
 
 short x;
 // "%hd" or "%hi" for decimel conversion
