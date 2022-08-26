@@ -1,6 +1,21 @@
 ## Assignment 4  - Easy Breezy
 #### Due: 12-02-2022 (Friday) @ 11:00 a.m.)
 
+###  Programs Folder
+
+|   #   | Folder | Assignment |    Status  | More Details
+| :---: | ----------- | ---------------------- |    ----------- |----------- |
+|   1   |  | The 3n + 1 problem P00100    |    🟢  | Completed |
+|   2   |        |             |    🔴  | Not Completed |
+|   3   | |      |    🔴  | Not Completed |
+|   4   | | |    🔴  | Not Completed |
+|   5   |        |      |    🔴  | Not Completed |
+|   6   |  |   |    🔴  | Not Completed |
+|   7   |  |    |    🔴  | Not Completed |
+|   8   |  |     |    🔴  | Not Completed |
+|   9   |  |     |    🔴  | Not Completed |
+|   10   |  |    |    🔴  | Not Completed |
+
 ### Overviews
 
 Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end.
