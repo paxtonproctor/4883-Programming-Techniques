@@ -6,7 +6,7 @@
 #include <map>
 #include <string>
 
-// print integer new line new line
+// print integer
 #define SCD(t) scanf("%d", &t)
 
 //  ./main < input1
@@ -28,8 +28,10 @@ int main() {
   SCD(T);
 
   // reads the 1 and the space
-  getline(cin, tree);
-  getline(cin, tree);
+  //getline(cin, tree);
+  //getline(cin, tree);
+  cin.ignore();
+  cin.ignore();
 
   while (T > 0) {
     
