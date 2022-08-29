@@ -7,7 +7,7 @@
 #include <string>
 
 // print integer new line new line
-#define SCD(t) scanf("%d\n\n", &t)
+#define SCD(t) scanf("%d", &t)
 
 //  ./main < input1
 
@@ -24,7 +24,7 @@ int main() {
   int T;
   string tree;
 
-  // cin > T;
+  //cin >> T;
   SCD(T);
 
   // reads the 1 and the space
