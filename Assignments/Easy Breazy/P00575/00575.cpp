@@ -36,14 +36,14 @@ int main() {
     i = 0;
     tot = 0;
     
-    // loop each char and store the decimal in total
-    // strlen gets num of char[] elements and stores it in integer 10120 would be 5
-		for(int k = strlen(T); k > 0; k--) {
-      // tot = tot + (ele - 0) * (2^n - 1)
-      // 48 is ascii code for 0 so you can also type '0' this allows us to convert every thing to integer.
-      tot += (T[i] - 48) * POW(k);
+    	// loop each char and store the decimal in total
+    	// strlen gets num of char[] elements and stores it in integer 10120 would be 5
+	for(int k = strlen(T); k > 0; k--) {
+      	// tot = tot + (ele - 0) * (2^n - 1)
+      	// 48 is ascii code for 0 so you can also type '0' this allows us to convert every thing to integer.
+      	tot += (T[i] - 48) * POW(k);
 			i++;
-    }
+    	}
 
     // print total
     PFD(tot);
