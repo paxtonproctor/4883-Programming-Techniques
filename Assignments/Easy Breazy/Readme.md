@@ -6,7 +6,7 @@
 |   #   | Folder | Assignment |    Status  | More Details
 | :---: | ----------- | ---------------------- |    ----------- |----------- |
 |   1   |  | The 3n + 1 problem P00100    |    🟢  | Completed |
-|   2   |        |  Skew Binary           |    🟢  | Completed |
+|   2   |        |  Skew Binary problem P00575           |    🟢  | Completed |
 |   3   | |      |    🔴  | Not Completed |
 |   4   | | |    🔴  | Not Completed |
 |   5   |        |      |    🔴  | Not Completed |
