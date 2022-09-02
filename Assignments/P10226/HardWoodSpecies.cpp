@@ -6,19 +6,17 @@
 #include <map>
 #include <string>
 
-// print integer
+// print integer new line new line
 #define SCD(t) scanf("%d", &t)
 
-//  ./main < input1
-
-// g++ -std=c++11 main.cpp -o main
+// created a macro for a auto for loop
+#define FOREACH(it, l) for (auto it = l.begin(); it != l.end(); it++)
 
 using namespace std;
 
 int main() {
   // map counts the amount of times a cetain string pops up
   map<string, int> treeCount;
-  map<string, int>::iterator itr;
 
   // declarations
   int T;
@@ -49,10 +47,9 @@ int main() {
       // count the number of each tree
       treeCount[tree]++;
     }
-    
+
     // from beginning of file to end will print the trees and there avg
-    for (itr = treeCount.begin(); itr != treeCount.end(); itr++) {
-      // print string %s, % is denote, 4 decimal places. Long Double, new line.
+    FOREACH(itr, treeCount){
       printf("%s %.4lf\n", (*itr).first.data(),
              (double)(*itr).second / (double)count * 100.0);
     }
