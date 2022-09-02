@@ -7,7 +7,7 @@
 | :---: | ----------- | ---------------------- |    ----------- |----------- |
 |   1   |  | The 3n + 1 problem P00100    |    🟢  | Completed |
 |   2   |        |  Skew Binary problem P00575           |    🟢  | Completed |
-|   3   | |      |    🔴  | Not Completed |
+|   3   | | TEX Quotes P00272     |    🟢  | Completed |
 |   4   | | |    🔴  | Not Completed |
 |   5   |        |      |    🔴  | Not Completed |
 |   6   |  |   |    🔴  | Not Completed |
