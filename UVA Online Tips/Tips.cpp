@@ -91,6 +91,15 @@ unsigned char c;
 #define PI 3.1415926535897932384626433832795
 #define MOD 1000000007
 #define read(type) readInt<type>()
+#define max(a, b) (a < b ? b : a)
+#define min(a, b) ((a > b) ? b : a)
+#define mod 1e9 + 7
+#define FOR(a, c) for (int(a) = 0; (a) < (c); (a)++)
+#define FORL(a, b, c) for (int(a) = (b); (a) <= (c); (a)++)
+#define FORR(a, b, c) for (int(a) = (b); (a) >= (c); (a)--)
+#define INF 1000000000000000003
+typedef long long int ll;
+typedef pair<int, int> pi;
 const double pi=acos(-1.0);
 typedef pair<int, int> PII;
 typedef vector<int> VI;
