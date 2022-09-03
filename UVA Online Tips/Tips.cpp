@@ -1,3 +1,5 @@
+// http://icps.u-strasbg.fr/~bastoul/local_copies/lee.html
+
 //when using scan or print
 
 short x;
