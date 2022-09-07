@@ -1,6 +1,7 @@
 // Paxton Proctor
 // Programming Techniques 4883
 // 9/7/2022
+// ran between 0.010 and 0.000
 
 #include <stdio.h>
 
