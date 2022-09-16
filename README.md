@@ -11,3 +11,4 @@ competitive programming techniques and problem solving.
 |   4   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy">A04</a>***      | EZ BREEZY             |    🔴  | Not Completed |
 |   5   |   ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P00161">A05</a>***   | Traffic Lights        |    🔴  | Not Completed |
 |   6   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10226">A06</a>***      | HardWood Species      |   🟢   | Completed |
+|   7   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10226">A07</a>***      | Rails      |   🔴   | Not Completed |
