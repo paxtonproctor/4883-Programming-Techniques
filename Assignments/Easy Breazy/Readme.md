@@ -11,10 +11,10 @@
 |   4   | | Primary Arithmetic P10035|    🔴  | Not Completed |
 |   5   |        | Back to High School Physics P10071     |    🟢  | Completed |
 |   6   |  | Peter's Smokes P10346 |    🟢  | Completed |
-|   7   |  |    |    🔴  | Not Completed |
-|   8   |  |     |    🔴  | Not Completed |
-|   9   |  |     |    🔴  | Not Completed |
-|   10   |  |    |    🔴  | Not Completed |
+|   7   |  | Above Average P10370  |    🔴  | Not Completed |
+|   8   |  | Back to Intermediate Math P10773   |    🔴  | Not Completed |
+|   9   |  | Odd Sum P10783    |    🟢  | Completed |
+|   10   |  | Parity P10931   |    🔴  | Not Completed |
 
 ### Overviews
 
