@@ -33,7 +33,7 @@
 |   26   |  | Language Detection P12250   |    🔴  | Not Completed |
 |   27   |  | One-Two-Three P12289   |    🔴  | Not Completed |
 |   28   |  | Save Setu P12403   |    🔴  | Not Completed |
-|   29   |  | Hajj-e-Akbar P12577   |    🔴  | Not Completed |
+|   29   |  | Hajj-e-Akbar P12577   |    🟢  | Completed |
 |   30   |  | 10:6:2 P12578   |    🔴  | Not Completed |
 
 ### Overviews
