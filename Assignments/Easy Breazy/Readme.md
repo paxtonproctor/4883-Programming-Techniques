@@ -31,7 +31,7 @@
 |   24   |  | Egypt P11875   |    🔴  | Not Completed |
 |   25   |  | Brick Game P11727   |    🔴  | Not Completed |
 |   26   |  | Language Detection P12250   |    🔴  | Not Completed |
-|   27   |  | One-Two-Three P12289   |    🔴  | Not Completed |
+|   27   |  | One-Two-Three P12289   |    🟢  | Completed |
 |   28   |  | Save Setu P12403   |    🔴  | Not Completed |
 |   29   |  | Hajj-e-Akbar P12577   |    🟢  | Completed |
 |   30   |  | 10:6:2 P12578   |    🔴  | Not Completed |
