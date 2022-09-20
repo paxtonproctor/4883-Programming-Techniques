@@ -28,8 +28,8 @@
 |   21   |  | Automate the Grades P11777   |    🔴  | Not Completed |
 |   22   |  | Horror Dash P11799   |    🔴  | Not Completed |
 |   23   |  | Bafana Bafana P11805   |    🔴  | Not Completed |
-|   24   |  | Egypt P11875   |    🔴  | Not Completed |
-|   25   |  | Brick Game P11727   |    🔴  | Not Completed |
+|   24   |  | Egypt P11854   |    🔴  | Not Completed |
+|   25   |  | Brick Game P11875   |    🔴  | Not Completed |
 |   26   |  | Language Detection P12250   |    🔴  | Not Completed |
 |   27   |  | One-Two-Three P12289   |    🟢  | Completed |
 |   28   |  | Save Setu P12403   |    🔴  | Not Completed |
