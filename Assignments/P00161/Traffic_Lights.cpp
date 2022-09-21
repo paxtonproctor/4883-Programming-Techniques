@@ -41,8 +41,7 @@ int main() {
     // Find the time at which all lights synchronize or fail.
     // Finds the smallest element in the range of our vector then multiply by 2.
     // and if it is less than and equal to 5 hours(which is 18000 seconds).
-    for (int i = (*min_element(SInt.begin(), SInt.end())) * 2; i <= 18000;
-         i++) {
+    for (int i = (*min_element(SInt.begin(), SInt.end())) * 2; i <= 18000; i++) {
       bool light_Green = true; // boolean for the green light.
 
       // Looping through our vector of integers.
