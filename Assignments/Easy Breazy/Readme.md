@@ -11,7 +11,7 @@
 |   4   | | Primary Arithmetic P10035|    🔴  | Not Completed |
 |   5   |        | Hasmat the Brave Warrior P10055     |    🟢  | Completed |
 |   6   |        | Back to High School Physics P10071     |    🟢  | Completed |
-|   7   |        | Summation of Polynomials P10302     |    🔴  | Not Completed |
+|   7   |        | Summation of Polynomials P10302     |    🟢  | Completed |
 |   8   |  | Peter's Smokes P10346 |    🟢  | Completed |
 |   9   |  | Above Average P10370  |    🔴  | Not Completed |
 |   10   |  | Back to Intermediate Math P10773   |    🔴  | Not Completed |
