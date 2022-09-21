@@ -12,4 +12,4 @@ competitive programming techniques and problem solving.
 |   5   |   ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P00161">A05</a>***   | Traffic Lights        |    🔴  | Not Completed |
 |   6   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10226">A06</a>***      | HardWood Species      |   🟢   | Completed |
 |   7   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10226">A07</a>***      | Rails      |   🔴   | Not Completed |
-|   8   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/blob/main/Assignments/bipartite_Problems">A08</a>***      | bipartite      |   🔴   | Not Completed |
+|   8   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/blob/main/Assignments/bipartite_Problems">A08</a>***      | Rock-Paper-Scissors      |   🔴   | Not Completed |
