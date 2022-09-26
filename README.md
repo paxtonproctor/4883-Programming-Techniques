@@ -13,5 +13,5 @@ competitive programming techniques and problem solving.
 |   6   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10226">A06</a>***      | HardWood Species      |   🟢   | Completed |
 |   7   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10226">A07</a>***      | Rails      |   🔴   | In Progress |
 |   8   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/blob/main/Assignments/P10443">A08</a>***      | Rock-Paper-Scissors      |   🔴   | In Progress |
-|   9   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/BipartiteProblems">A09</a>***      | Bipartite Problems     |   🔴   | 0/4 Completed |
+|   9   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/BipartiteProblems">A09</a>***      | Bipartite Problems     |   🔴   | 1 in progress 0/4 Completed |
 |   10   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A10</a>***      | Dijkstra Problems     |   🔴   | 0/4 Completed |
