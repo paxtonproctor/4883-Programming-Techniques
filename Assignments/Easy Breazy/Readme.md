@@ -5,13 +5,13 @@
 
 |   #   | Folder | Assignment |    Status  | More Details
 | :---: | ----------- | ---------------------- |    ----------- |----------- |
-|   1   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P00100">A01</a>*** | The 3n + 1 problem P00100    |    🟢  | Completed |
-|   2   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P00575">A02</a>*** |  Skew Binary P00575           |    🟢  | Completed |
-|   3   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P00272">A03</a>*** | TEX Quotes P00272     |    🟢  | Completed |
-|   4   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10035">A04</a>*** | Primary Arithmetic P10035|    🟢  | Completed |
-|   5   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10071">A05</a>*** | Hasmat the Brave Warrior P10055     |    🟢  | Completed |
-|   6   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10302">A06</a>*** | Back to High School Physics P10071     |    🟢  | Completed |
-|   7   |        | Summation of Polynomials P10302     |    🟢  | Completed |
+|   1   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P00100">P01</a>*** | The 3n + 1 problem P00100    |    🟢  | Completed |
+|   2   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P00575">P02</a>*** |  Skew Binary P00575           |    🟢  | Completed |
+|   3   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P00272">P03</a>*** | TEX Quotes P00272     |    🟢  | Completed |
+|   4   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10035">P04</a>*** | Primary Arithmetic P10035|    🟢  | Completed |
+|   5   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10055">P05</a>*** | Hasmat the Brave Warrior P10055     |    🟢  | Completed |
+|   6   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10302">P06</a>*** | Back to High School Physics P10071     |    🟢  | Completed |
+|   7   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10302">P07</a>*** | Summation of Polynomials P10302     |    🟢  | Completed |
 |   8   |  | Peter's Smokes P10346 |    🟢  | Completed |
 |   9   |  | Above Average P10370  |    🔴  | Not Completed |
 |   10   |  | Back to Intermediate Math P10773   |    🔴  | Not Completed |
