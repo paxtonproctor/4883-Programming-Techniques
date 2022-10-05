@@ -17,7 +17,7 @@
 |   10  | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10773">P10</a>*** | Back to Intermediate Math P10773   |    🔴  | Not Completed |
 |   11  | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10783">P11</a>*** | Odd Sum P10783    |    🟢  | Completed |
 |   12   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10931">P12</a>*** | Parity P10931   |    🔴  | Not Completed |
-|   13   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11044">P13</a>*** | Searching for Nessy P11044   |    🔴  | Not Completed |
+|   13   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11044">P13</a>*** | Searching for Nessy P11044   |    🟢  | Completed |
 |   14   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11172">P14</a>*** | Relational Operator P11172   |    🟢  | Completed |
 |   15   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11498">P15</a>*** | Division of Nlogonia P11498   |    🔴  | Not Completed |
 |   16   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11547">P16</a>*** | Automatic Answer P11547   |    🔴  | Not Completed |
