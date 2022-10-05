@@ -18,7 +18,7 @@
 |   11   |  | Odd Sum P10783    |    🟢  | Completed |
 |   12   |  | Parity P10931   |    🔴  | Not Completed |
 |   13   |  | Searching for Nessy P11044   |    🔴  | Not Completed |
-|   14   |  | Relational Operator P11172   |    🔴  | Not Completed |
+|   14   |  | Relational Operator P11172   |    🟢  | Completed |
 |   15   |  | Division of Nlogonia P11498   |    🔴  | Not Completed |
 |   16   |  | Automatic Answer P11547   |    🔴  | Not Completed |
 |   17   |  | Etruscan Warriors Never Play Chess P11614   |    🔴  | Not Completed |
