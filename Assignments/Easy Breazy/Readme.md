@@ -8,7 +8,7 @@
 |   1   |  | The 3n + 1 problem P00100    |    🟢  | Completed |
 |   2   |        |  Skew Binary P00575           |    🟢  | Completed |
 |   3   | | TEX Quotes P00272     |    🟢  | Completed |
-|   4   | | Primary Arithmetic P10035|    🔴  | Not Completed |
+|   4   | | Primary Arithmetic P10035|    🟢  | Completed |
 |   5   |        | Hasmat the Brave Warrior P10055     |    🟢  | Completed |
 |   6   |        | Back to High School Physics P10071     |    🟢  | Completed |
 |   7   |        | Summation of Polynomials P10302     |    🟢  | Completed |
