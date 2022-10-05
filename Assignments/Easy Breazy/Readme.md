@@ -12,10 +12,10 @@
 |   5   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10055">P05</a>*** | Hasmat the Brave Warrior P10055     |    🟢  | Completed |
 |   6   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10302">P06</a>*** | Back to High School Physics P10071     |    🟢  | Completed |
 |   7   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10302">P07</a>*** | Summation of Polynomials P10302     |    🟢  | Completed |
-|   8   |  | Peter's Smokes P10346 |    🟢  | Completed |
-|   9   |  | Above Average P10370  |    🔴  | Not Completed |
-|   10   |  | Back to Intermediate Math P10773   |    🔴  | Not Completed |
-|   11   |  | Odd Sum P10783    |    🟢  | Completed |
+|   8   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10346">P08</a>*** | Peter's Smokes P10346 |    🟢  | Completed |
+|   9   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10370">P09</a>*** | Above Average P10370  |    🔴  | Not Completed |
+|   10  | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10773">P10</a>*** | Back to Intermediate Math P10773   |    🔴  | Not Completed |
+|   11  | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10783">P11</a>*** | Odd Sum P10783    |    🟢  | Completed |
 |   12   |  | Parity P10931   |    🔴  | Not Completed |
 |   13   |  | Searching for Nessy P11044   |    🔴  | Not Completed |
 |   14   |  | Relational Operator P11172   |    🟢  | Completed |
