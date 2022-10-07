@@ -16,3 +16,4 @@ competitive programming techniques and problem solving.
 |   9   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/BipartiteProblems">A09</a>***      | Bipartite Problems     |   🔴   | 1/4 Completed 1 in progress |
 |   10   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A10</a>***      | Dijkstra Problems     |   🔴   | 0/4 Completed |
 |   11   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A11</a>***      | Spanning Tree Problems     |   🔴   | 0/4 Completed |
+|   12   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A12</a>***      | Not BackTracking Problems     |   🔴   | 0/2 Completed |
