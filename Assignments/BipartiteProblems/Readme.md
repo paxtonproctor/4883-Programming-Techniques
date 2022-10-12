@@ -2,7 +2,7 @@
 
 |   #   | Folder | Assignment |    Status  | More Details
 | :---: | ----------- | ---------------------- |    ----------- |----------- |
-|   1   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10055">A03</a>*** | Establishing Comms    |    🟢  | Completed |
-|   2   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10055">A03</a>***       | Repository            |    🟢  | Completed |
-|   3   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10055">A03</a>***       | Register Hashmat      |    🟢  | Completed |
-|   4   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy">A04</a>***      | EZ BREEZY             |    🟢  | 15/30 Completed |
+|   1   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/BipartiteProblems/P10004">P01</a>*** |  BICOLORING   |    🟢  | Completed |
+|   2   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/BipartiteProblems/P10004">P02</a>***       | Claw Decomposition            |    🟢  | Completed |
+|   3   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P10055">P03</a>***       | Place the Guards      |    🟢  | Not Completed |
+|   4   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy">P04</a>***      |              |    🟢  | Not Completed |
