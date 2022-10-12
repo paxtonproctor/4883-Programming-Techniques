@@ -30,7 +30,7 @@
 |   23   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11805">P23</a>*** | Bafana Bafana P11805   |    🔴  | Not Completed |
 |   24   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11854">P24</a>*** | Egypt P11854   |    🟢  | Completed |
 |   25   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11875">P25</a>*** | Brick Game P11875   |    🔴  | Not Completed |
-|   26   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P12250">P26</a>*** | Language Detection P12250   |    🔴  | Not Completed |
+|   26   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P12250">P26</a>*** | Language Detection P12250   |    🟢  | Completed |
 |   27   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P12289">P27</a>*** | One-Two-Three P12289   |    🟢  | Completed |
 |   28   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P12403">P28</a>*** | Save Setu P12403   |    🟢  | Completed |
 |   29   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P12577">P29</a>*** | Hajj-e-Akbar P12577   |    🟢  | Completed |
