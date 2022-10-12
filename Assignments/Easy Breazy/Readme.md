@@ -19,7 +19,7 @@
 |   12   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10931">P12</a>*** | Parity P10931   |    🔴  | Not Completed |
 |   13   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11044">P13</a>*** | Searching for Nessy P11044   |    🟢  | Completed |
 |   14   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11172">P14</a>*** | Relational Operator P11172   |    🟢  | Completed |
-|   15   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11498">P15</a>*** | Division of Nlogonia P11498   |    🔴  | Not Completed |
+|   15   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11498">P15</a>*** | Division of Nlogonia P11498   |    🟢  | Completed |
 |   16   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11547">P16</a>*** | Automatic Answer P11547   |    🔴  | Not Completed |
 |   17   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11614">P17</a>*** | Etruscan Warriors Never Play Chess P11614   |    🔴  | Not Completed |
 |   18   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11636">P18</a>*** | Hello World! P11636   |    🔴  | Not Completed |
