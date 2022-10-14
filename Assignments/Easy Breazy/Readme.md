@@ -14,7 +14,7 @@
 |   7   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10302">P07</a>*** | Summation of Polynomials P10302     |    🟢  | Completed |
 |   8   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10346">P08</a>*** | Peter's Smokes P10346 |    🟢  | Completed |
 |   9   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10370">P09</a>*** | Above Average P10370  |    🔴  | Not Completed |
-|   10  | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10773">P10</a>*** | Back to Intermediate Math P10773   |    🔴  | Not Completed |
+|   10  | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10773">P10</a>*** | Back to Intermediate Math P10773   |    🟢  | Completed |
 |   11  | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10783">P11</a>*** | Odd Sum P10783    |    🟢  | Completed |
 |   12   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P10931">P12</a>*** | Parity P10931   |    🔴  | Not Completed |
 |   13   | ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breazy/P11044">P13</a>*** | Searching for Nessy P11044   |    🟢  | Completed |
