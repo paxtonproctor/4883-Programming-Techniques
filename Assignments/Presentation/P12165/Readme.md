@@ -1,4 +1,4 @@
-# CMPS-4883-101 <br>Topics in Computer Science: Programming Techniques <br> UVa Online Judge Problem #10135: Herding the Frosh
+# CMPS-4883-101 <br>Topics in Computer Science: Programming Techniques <br> UVa Online Judge Problem #12165: Triangle Hazard
 ## By: Paxton Proctor ([@paxtonproctor](https://github.com/paxtonproctor/))<br>Date: 11/08/22
 <br/>
 
