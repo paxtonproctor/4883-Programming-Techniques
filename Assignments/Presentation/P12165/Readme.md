@@ -1,1 +1,49 @@
+# CMPS-4883-101 <br>Topics in Computer Science: Programming Techniques <br> UVa Online Judge Problem #10135: Herding the Frosh
+## By: Paxton Proctor ([@paxtonproctor](https://github.com/paxtonproctor/))<br>Date: 11/08/22
+<br/>
+
+### Problem summary:
+##### [[Full problem statement here](https://onlinejudge.org/external/121/12165.pdf)]
+Given number of triangles N. Given 3 coordinates for a inner triangle. These points are P,R,Q. We are also given 6 side lengths for the outer triangle. These side lengths are labled as m1,m2,m3,m4,m5,m6. The goal is to find the outer triangles points A,B,C. <sup>1</sup> The following restrictions apply: N (0 < N < 25001), (0 ≤ Px, Py, Qx, Qy, Rx, Ry ≤ 10000), and six positive integers m1, m2, m3, m4, m5, m6
+(m1 < m2, m3 < m4 and m5 < m6).
+
+### The Goal:
+Find the coordinates of the outer triangle.
+
+### Explanation
+After reading the problem about 50 times it is clear that we'll need to use some sort of geometry theorem in order to find the points. Since I'm not a math major and my geometry is awful I had to get help from one of my math professors and through the use of google in order to find a theorem that can solve this problem.<sup>5</sup>
+
+### Attempt 1 Example
+##### Image source: 
+>  <br>
+> <br> <sup>6</sup> 
+
+### Attempt 2 Example
+##### Image source: 
+> <br>
+> <br> <sup>4</sup> 
+
+### Attempt 3 Example
+##### Image source: 
+> <br>
+> <br> <sup>4</sup> 
+
+### How To Solve:
+It's clear we will need to make points.
+```
+
+```
+
+### Working it out by hand:
+> <br>
+> <br>
+> 
+
+### Simple Psuedocode for the Solution
+```python
+
+
+# no. of test cases
+T = input()
+
 
