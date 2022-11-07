@@ -11,7 +11,7 @@ Given number of triangles N. Given 3 coordinates for a inner triangle. These poi
 Find the coordinates of the outer triangle.
 
 ### Explanation
-After reading the problem about 50 times it is clear that we'll need to use some sort of geometry theorem in order to find the points. Since I'm not a math major and my geometry is awful I had to get help from three math professors and professor Griffin. Unfornately we could only come up with some ideas of how to solve this problem here are the attempts.
+After reading the problem about 50 times it is clear that we'll need to use some sort of geometry theorem in order to find the points. Since I'm not a math major and my geometry is awful I had to get help from three math professors. Professor Slavens, Professor Mitchell, Some other Professor that I forgot the name of(sorry...), and professor Griffin. Unfortunately, we could only come up with one idea of how to solve this problem here are is the attempt.
 
 ### Attempt 1 Example Brute Forcing
 ### Image:
@@ -20,13 +20,11 @@ After reading the problem about 50 times it is clear that we'll need to use some
 
 ### How To Solve:
 ```
-
+So with the help of the Professors, the goal was pretty much to take the inner lines and create parallel versions of them with the help of each other. This probably makes no sense but I'll probably be attempting to explain it in class so please ignore this.
 ```
 
-### Working it out by hand:
-> <br>
-> <br>
-> 
+### Working it out by hand here are the equations that I attempted to use:
+
 
 ### Simple Psuedocode for the Solution
 ```python
