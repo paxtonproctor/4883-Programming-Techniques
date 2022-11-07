@@ -22,7 +22,9 @@ After reading the problem about 50 times it is clear that we'll need to use some
 So with the help of the Professors, the goal was pretty much to take the inner lines and create parallel versions of them with the help of each other. This probably makes no sense but I'll probably be attempting to explain it in class so please ignore this.
 
 ### Working it out by hand here are the equations that I attempted to use:
+```
 m = rise / run = y2-y1/x2-x1
+```
 
 ### Simple Psuedocode for the Solution
 ```python
