@@ -10,10 +10,10 @@ Given number of triangles N. Given 3 coordinates for a inner triangle. These poi
 ### The Goal:
 Find the coordinates of the outer triangle.
 
-### Explanation
+### Explanation:
 After reading the problem about 50 times it is clear that we'll need to use some sort of geometry theorem in order to find the points. Since I'm not a math major and my geometry is awful I had to get help from three math professors. Professor Slavens, Professor Mitchell, Some other Professor that I forgot the name of(sorry...), and professor Griffin. Unfortunately, we could only come up with one idea of how to solve this problem here are is the attempt.
 
-### Attempt 1 Example Brute Forcing
+### Attempt 1 Example Brute Forcing:
 ### Image:
 >
 ![image](https://user-images.githubusercontent.com/61135201/200403726-50315b0a-0d99-4622-9041-12ae0bb0a4f8.png)<br>
