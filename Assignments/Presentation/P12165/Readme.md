@@ -15,8 +15,8 @@ After reading the problem about 50 times it is clear that we'll need to use some
 
 ### Attempt 1 Example Brute Forcing:
 ### Image:
->
-![image](https://user-images.githubusercontent.com/61135201/200403726-50315b0a-0d99-4622-9041-12ae0bb0a4f8.png)<br>
+> ![image](https://user-images.githubusercontent.com/61135201/200406845-d9bc6c86-df9d-466f-b97c-98a83a490c62.png)
+<br>
 
 ### How To Solve:
 So with the help of the Professors, the goal was pretty much to take the inner lines and create parallel versions of them with the help of each other. This probably makes no sense but I'll probably be attempting to explain it in class so please ignore this.
