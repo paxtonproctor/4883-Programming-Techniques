@@ -19,9 +19,7 @@ After reading the problem about 50 times it is clear that we'll need to use some
 ![image](https://user-images.githubusercontent.com/61135201/200403726-50315b0a-0d99-4622-9041-12ae0bb0a4f8.png)<br>
 
 ### How To Solve:
-```
 So with the help of the Professors, the goal was pretty much to take the inner lines and create parallel versions of them with the help of each other. This probably makes no sense but I'll probably be attempting to explain it in class so please ignore this.
-```
 
 ### Working it out by hand here are the equations that I attempted to use:
 
