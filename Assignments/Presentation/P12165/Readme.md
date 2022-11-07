@@ -11,7 +11,7 @@ Given number of triangles N. Given 3 coordinates for a inner triangle. These poi
 Find the coordinates of the outer triangle.
 
 ### Explanation
-After reading the problem about 50 times it is clear that we'll need to use some sort of geometry theorem in order to find the points. Since I'm not a math major and my geometry is awful I had to get help from one of my math professors and through the use of google in order to find a theorem that can solve this problem.<sup>5</sup>
+After reading the problem about 50 times it is clear that we'll need to use some sort of geometry theorem in order to find the points. Since I'm not a math major and my geometry is awful I had to get help from three math professors and professor Griffin. Unfornately we could only come up with some ideas of how to solve this problem here are the attempts.<sup>5</sup>
 
 ### Attempt 1 Example
 ##### Image source: 
