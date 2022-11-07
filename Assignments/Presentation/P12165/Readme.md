@@ -13,7 +13,7 @@ Find the coordinates of the outer triangle.
 ### Explanation
 After reading the problem about 50 times it is clear that we'll need to use some sort of geometry theorem in order to find the points. Since I'm not a math major and my geometry is awful I had to get help from three math professors and professor Griffin. Unfornately we could only come up with some ideas of how to solve this problem here are the attempts.<sup>5</sup>
 
-### Attempt 1 Example
+### Attempt 1 Example Brute Forcing
 ### Image:
 ![image](https://user-images.githubusercontent.com/61135201/200403726-50315b0a-0d99-4622-9041-12ae0bb0a4f8.png)
 
@@ -21,7 +21,6 @@ After reading the problem about 50 times it is clear that we'll need to use some
 > <br> <sup>6</sup> 
 
 ### How To Solve:
-It's clear we will need to make points.
 ```
 
 ```
