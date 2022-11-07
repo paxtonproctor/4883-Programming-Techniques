@@ -18,16 +18,6 @@ After reading the problem about 50 times it is clear that we'll need to use some
 >  <br>
 > <br> <sup>6</sup> 
 
-### Attempt 2 Example
-##### Image source: 
-> <br>
-> <br> <sup>4</sup> 
-
-### Attempt 3 Example
-##### Image source: 
-> <br>
-> <br> <sup>4</sup> 
-
 ### How To Solve:
 It's clear we will need to make points.
 ```
