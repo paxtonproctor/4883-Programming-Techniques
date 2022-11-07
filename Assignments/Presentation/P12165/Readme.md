@@ -15,9 +15,8 @@ After reading the problem about 50 times it is clear that we'll need to use some
 
 ### Attempt 1 Example Brute Forcing
 ### Image:
-![image](https://user-images.githubusercontent.com/61135201/200403726-50315b0a-0d99-4622-9041-12ae0bb0a4f8.png)
-
 >  <br>
+![image](https://user-images.githubusercontent.com/61135201/200403726-50315b0a-0d99-4622-9041-12ae0bb0a4f8.png)
 > <br> <sup>6</sup> 
 
 ### How To Solve:
