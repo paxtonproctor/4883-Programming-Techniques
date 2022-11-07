@@ -24,6 +24,8 @@ So with the help of the Professors, the goal was pretty much to take the inner l
 ### Working it out by hand here are the equations that I attempted to use:
 ```
 m = rise / run = y2-y1/x2-x1
+
+
 ```
 
 ### Simple Psuedocode for the Solution
