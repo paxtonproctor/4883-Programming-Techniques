@@ -25,14 +25,64 @@ So with the help of the Professors, the goal was pretty much to take the inner l
 ```
 m = rise / run = y2-y1/x2-x1
 
+m - d
+
 
 ```
 
 ### Simple Psuedocode for the Solution
 ```python
+import sys
+import matplotlib.pyplot as plt
+​
+def slope(x1, y1, x2, y2):
+    return (y2-y1)/(x2-x1)
+​
+​
+# y - y1 = m(x - x1)
+def parallelLine():
+    pass
+C = sys.stdin.readline()
+​
+def drawLinex(line1,line2=None):
+    
+    # plt.rcParams["figure.figsize"] = [7.50, 3.50]
+    # plt.rcParams["figure.autolayout"] = True
+    x_values = [line1[0], line1[2]]
+    y_values = [line1[1], line1[3]]
+    plt.plot(x_values, y_values, 'bo', linestyle="--")
+​
+    if line2: 
+        x_values = [line2[0], line2[2]]
+        y_values = [line2[1], line2[3]]
+        plt.plot(x_values, y_values, 'go', linestyle="--")
+    # plt.text(point1[0]-0.015, point1[1]+0.25, "Point1")
+    # plt.text(point2[0]-0.050, point2[1]-0.25, "Point2")
+    
+​
+​
+​
+for i in range(int(C)):
+    coords = sys.stdin.readline()
+    ms = sys.stdin.readline()
+​
+    cds = [ float(x) for x in coords.split() ]
+    ms = [ int(x) for x in ms.split() ]
+​
+    # y = mx + c
+​
+    Dm3 = ms[2]
+​
+    slopePQ = slope(cds[0], cds[1], cds[2], cds[3])
+    drawLinex((cds[0], cds[1], cds[2], cds[3]),(cds[0], cds[1]-Dm3, cds[2], cds[3]-Dm3))
+​
+    slopeRQ = slope(cds[4], cds[5], cds[2], cds[3])
+    drawLinex((cds[4], cds[5], cds[2], cds[3]))
+​
+    print(slopePQ)
+​
+    plt.show()
+    exit()
 
-
-# no. of test cases
-T = input()
 
 
