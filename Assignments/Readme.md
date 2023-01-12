@@ -14,7 +14,7 @@ competitive programming techniques and problem solving.
 |   7   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/P00514">A07</a>***      | Rails      |   🟢   | Completed |
 |   8   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/blob/main/Assignments/P10443">A08</a>***      | Rock-Paper-Scissors      |   🔴   | Not Completed |
 |   9   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/BipartiteProblems">A09</a>***      | Bipartite Problems     |   🟢   | 3/4 Completed |
-|   10   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A10</a>***      | Dijkstra Problems     |   🔴   | 1/4 Completed |
+|   10   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A10</a>***      | Dijkstra Problems     |   🟢   | 2/4 Completed |
 |   11   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A11</a>***      | Spanning Tree Problems     |   🔴   | 0/4 Completed |
 |   12   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/DijkstraProblems">A12</a>***      | Not BackTracking Problems     |   🔴   | 0/2 Completed |
 |   13   |  ***<a href="https://github.com/paxtonproctor/4883-Programming-Techniques/tree/main/Assignments/Presentation/P12165">FPR</a>***      | Presentation Program     |  🟢    | Presentation Completed Program Not Completed|
